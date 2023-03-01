@@ -1,4 +1,4 @@
-##Client-Server Resource Sharing Application
+<h1>Client-Server Resource Sharing Application</h1>
 
 This is a client-server application that allows publishers to share resources with clients. Publishers can upload their resources to the server, which clients can then search for and download.
 
@@ -14,6 +14,5 @@ The Publisher class is used by publishers to upload their resources to the serve
 
 To use the application, simply run the Server class on the server machine and the Client class on the client machines. Publishers can use the Publisher class to upload their resources to the server. The application is flexible and can be used to share various types of resources, such as files, documents, and media.
 
-Thank you for considering this application for your resource sharing needs!
 
 
